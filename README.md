@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif" width="600" height="300">
+</p>
+
 <h1 align="center">Hi 👋, I'm Nitin Bahuguna</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <br>
