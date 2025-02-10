@@ -14,9 +14,10 @@
 
 
 - 🌱 I’m currently learning **MERN**
-
+<br><br>
   
- ### 📊 **GitHub Stats**  
+<h2 align = "center "> ### 📊 **GitHub Stats** </h2> 
+<br><br>
 <p align="center">
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-04&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
