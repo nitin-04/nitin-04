@@ -31,8 +31,7 @@
   <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> </a>
 </p>
 
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
----
+
 
 ### 🌱 Currently Learning:
 - Deep diving into **MERN stack**
@@ -43,8 +42,8 @@
 
 ### 📫 Connect with Me:
 - Email: **nitinbahuguna1251@gmail.com**
-- Portfolio: [View Projects](#) <!-- (Replace # with your portfolio link) -->
-- LinkedIn: [linkedin.com/in/nitinbahuguna](https://linkedin.com/in/nitinbahuguna)
+- Portfolio: [View Projects](https://nitinb.vercel.app/) 
+- LinkedIn: [linkedin.com/in/nitinbahuguna](https://www.linkedin.com/in/nitin-bahuguna-66624b176/)
 
 ---
 
@@ -56,14 +55,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitin-04&theme=radical&layout=compact" alt="Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitin-04&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 </p>
 
 ---
 
-### ⚡ Fun Fact:
-> *I break things just to fix them better!* 😄
 
----
 
 
 
