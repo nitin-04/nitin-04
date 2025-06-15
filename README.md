@@ -31,7 +31,7 @@
   <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> </a>
 </p>
 
-
+---
 
 ### 🌱 Currently Learning:
 - Deep diving into **MERN stack**
