@@ -31,6 +31,7 @@
   <a href="https://vercel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" height="40"/> </a>
 </p>
 
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 ---
 
 ### 🌱 Currently Learning:
